@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDE Files
+.classpath
+.project
+.settings/
+bin/
+.vscode/
+*.iml
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Test Reports
+*.log
